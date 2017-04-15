@@ -3194,10 +3194,10 @@ tbody.collapse.show {
   color: #292b2c;
   text-align: left;
   list-style: none;
-  background-color: #fcfafa;
+  background-color: #fefaf8;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid #fdefe3;
+  border: 1px solid #fdf4ef;
   border-radius: 0.25rem;
 }
 
@@ -3205,7 +3205,7 @@ tbody.collapse.show {
   height: 1px;
   margin: 0.5rem 0;
   overflow: hidden;
-  background-color: #fdefe3;
+  background-color: #fdf4ef;
 }
 
 .dropdown-item {
@@ -4478,7 +4478,7 @@ tbody.collapse.show {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: #fcfafa;
+  background-color: #fefaf8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
 
@@ -4488,7 +4488,7 @@ tbody.collapse.show {
 
 .card-footer {
   padding: 0.75rem 1.25rem;
-  background-color: #fcfafa;
+  background-color: #fefaf8;
   border-top: 1px solid rgba(0, 0, 0, 0.125);
 }
 
@@ -6109,7 +6109,7 @@ button.close {
 }
 
 .bg-gray {
-  background-color: #fcfafa !important;;
+  background-color: #fefaf8 !important;;
 }
 
 .bg-primary {
@@ -9355,8 +9355,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   /*bottom: 0;*/
   /*width: 100%;*/
   /*height: 300px;*/
-  background-color: #fcfafa; 
-  border-top: 1px solid #fdefe3;
+  background-color: #fefaf8; 
+  border-top: 1px solid #fdf4ef;
   font-size: 90%;
 }
 
