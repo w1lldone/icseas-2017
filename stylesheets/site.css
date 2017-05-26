@@ -9406,4 +9406,161 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   color: #DD5D26;
 }
 
+/* CONFERENCE PROGRAM */
+
+/* Titles in program nav tabs */
+
+.program-title {
+  font-size: 1.5rem;
+  font-weight: 300;
+}  
+
+@media (max-width: 500px) { 
+  .program-title{
+    font-size: 4.5vw !important;
+  }  
+}
+
+/* Schedule headings */
+
+.schedule-heading {  
+  padding: 25px 0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.schedule-heading > .col-sm-12 {
+  letter-spacing: 2px; 
+  text-align: center;
+  color: #fff;
+}
+
+/* Schedule items */
+
+.schedule-item {
+  padding: 25px 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-bottom: 1px solid #e3e3f3;
+}
+
+.schedule-item > .col-sm-2, .col-sm-8  {
+  padding: 0;
+}
+
+.schedule-item > .col-sm-8 > .row  {
+  margin-right: -20px;
+}
+
+@media (min-width: 992px) {
+  .schedule-item {
+    padding-left: 2%;
+  }
+}
+
+/* Multiple schedule items in single time slot */
+
+.schedule-multiple-item {
+  padding: 25px 0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.schedule-multiple-item > .col-sm-2, .col-sm-8 {
+  padding: 0;
+}
+
+.schedule-multiple-item > .col-sm-8 > .row {
+  margin-right: -20px;
+}
+
+@media (max-width: 575px) {
+  .schedule-multiple-item {
+    border-bottom: 1px solid #e3e3f3;
+  }
+}
+
+@media (min-width: 756px) {
+  .schedule-multiple-item {
+    padding-bottom: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .schedule-multiple-item {
+    padding-left: 2%;
+  }
+}
+
+/* Separator for multiple items */
+
+@media (min-width: 756px) {
+  .schedule-item-separator {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e3e3f3;
+  }
+}
+
+/* Event time */
+
+@media (min-width: 576px) {
+  .schedule-time {
+    margin-bottom: 0;
+  }
+}
+
+/* Event location */
+
+.schedule-location {
+  padding-left: 20px !important;
+}
+
+@media (max-width: 575px) {
+  .schedule-location {
+    padding-left: 0 !important;
+  }
+}
+
+/* Speaker images */
+
+.program-speaker-img {
+  width: 100%; 
+  margin: auto; 
+  border-radius: 50%;
+  padding: 1%;
+}
+
+@media (max-width: 575px) {
+  .program-speaker-img {
+    width: 135px;
+    padding-bottom: 10px !important;
+  }
+
+  .program-speaker {
+    padding-left: 2% !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  .program-speaker {
+    padding: 0;
+  }
+}
+
+/* REGISTER BUTTON IN NAVBAR */
+
+@media (max-width: 991px) {
+  .nav-register {
+    position: absolute;
+    right: 5.5rem;
+    padding: 0.55rem 1rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-register {
+    margin-left: 10px;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
