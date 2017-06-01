@@ -9401,6 +9401,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   background-color: rgba(208, 212, 218, 0.7) !important;
   border-top: 1px solid rgba(203, 207, 213, 0.7);
   margin-right: -16px;
+  margin-left: -16px;
 }
 
 .social-media-row a {
