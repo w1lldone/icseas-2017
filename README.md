@@ -1,6 +1,8 @@
+<a href="https://icseas.ugm.ac.id/2017/"><img src="https://icseas.ugm.ac.id/2017/images/logos/logo.svg" height="142px" align="right"></a>
+
 # Website for the ICSEAS 2017
 
-This is the website for the International Conference on South East Asia Studies 2017, hosted by Universitas Gadjah Mada.
+This is the website for the International Conference on South East Asia Studies 2017, hosted by Universitas Gadjah Mada on 27&ndash;28 September 2017.
 
 ## Credits
 
