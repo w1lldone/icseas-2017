@@ -1,4 +1,4 @@
-<a href="https://icseas.ugm.ac.id/2017/"><img src="https://icseas.ugm.ac.id/2017/images/logos/logo.svg" height="142px" align="right"></a>
+<a href="https://icseas.ugm.ac.id/2017/"><img src="https://icseas.ugm.ac.id/2017/images/logos/logo.svg" height="100px" align="right"></a>
 
 # Website for the ICSEAS 2017
 
