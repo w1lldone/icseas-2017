@@ -9571,4 +9571,16 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/*TUTORIAL IMAGE*/
+
+.img-tutorial {
+  width: 75%;
+  border: 1px solid #eaeaf6;
+}
+
+@media (max-width: 991px){
+  .img-tutorial {
+    width: 100% !important;
+  }
+}
 /*# sourceMappingURL=bootstrap.css.map */
