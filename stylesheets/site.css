@@ -9571,7 +9571,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/*TUTORIAL IMAGE*/
+/* TUTORIAL IMAGE */
 
 .img-tutorial {
   width: 75%;
@@ -9583,4 +9583,5 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
     width: 100% !important;
   }
 }
+
 /*# sourceMappingURL=bootstrap.css.map */
