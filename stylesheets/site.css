@@ -2767,8 +2767,8 @@ fieldset[disabled] a.btn {
 
 .btn-info:hover {
   color: #fff;
-  background-color: #df3b3b;
-  border-color: #de3232;
+  background-color: #ae3400;
+  border-color: #c33e0e;
 }
 
 .btn-info:focus, .btn-info.focus {
