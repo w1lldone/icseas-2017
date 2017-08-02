@@ -2761,8 +2761,8 @@ fieldset[disabled] a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #e25656;
-  border-color: #e25656;
+  background-color: #e47b4c;
+  border-color: #e47b4c;
 }
 
 .btn-info:hover {
@@ -6135,11 +6135,11 @@ a.bg-success:focus, a.bg-success:hover {
 }
 
 .bg-info {
-  background-color: #e25656 !important;
+  background-color: #e47b4c !important;
 }
 
 a.bg-info:focus, a.bg-info:hover {
-  background-color: #e25656 !important;
+  background-color: #e47b4c !important;
 }
 
 .bg-warning {
