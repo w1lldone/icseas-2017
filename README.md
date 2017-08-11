@@ -39,6 +39,12 @@ This is the website for the International Conference on South East Asia Studies 
 
 + Background is from [Freepik](http://www.freepik.com); modified
 
+### Symposia images
+
+All symposia images are licensed under the Creative Commons via Flickr.
+
++ Communication in Digital Society: [re:publica](https://www.flickr.com/photos/re-publica/17213302028/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 ## License
 
 © 2017 Joaquim Baeta under the MIT License.
