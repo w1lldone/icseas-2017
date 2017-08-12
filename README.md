@@ -44,6 +44,7 @@ This is the website for the International Conference on South East Asia Studies 
 All symposia images are licensed under the Creative Commons via Flickr.
 
 + Communication in Digital Society: [re:publica](https://www.flickr.com/photos/re-publica/17213302028/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ The Dynamic of Southeast Asian Studies: [Roberto Faccenda](https://www.flickr.com/photos/stefanedberg62/16684631195/); [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 ## License
 
