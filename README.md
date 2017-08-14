@@ -46,6 +46,7 @@ All symposia images are licensed under the Creative Commons via Flickr.
 + Communication in Digital Society: [re:publica](https://www.flickr.com/photos/re-publica/17213302028/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 + The Dynamic of Southeast Asian Studies: [Roberto Faccenda](https://www.flickr.com/photos/stefanedberg62/16684631195/); [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 + Exploring Southeast Asia's Border(less) State and Society: [CiaoHo](https://www.flickr.com/photos/ciaomrho/16021693184/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Identity and Popular Culture: [Adam Wilson](https://www.flickr.com/photos/adamwilson/33997326572/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ## License
 
