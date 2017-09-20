@@ -30,7 +30,7 @@
 \usepackage{titlesec}
   \titleformat{\section}
     {\Huge\scshape\filcenter\textrmlf}{\thesection}{1.3em}{}
-  \titleformat{\subsection}
+  \titlefohermat{\subsection}
     {\LARGE\textrmlf}{\thesubsection}{1.3em}{}
   \titleformat{\subsubsection}
     {\Large\scshape}{\thesubsubsection}{1.3em}{}
@@ -77,5 +77,6 @@ All presenters are required to submit their presentation file during registratio
   \item We highly recommend that you keep a backup of your presentation file on a second USB stick or CD-ROM.
   \item Please do not embed videos in your presentation.
 \end{itemize}
+
 
 \end{document}
