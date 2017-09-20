@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100"
+   version="1.1"
+   viewBox="0 0 100 100"
+   width="100"
+   id="svg126"
+   sodipodi:docname="book-phone.svg"
+   inkscape:export-filename="/home/joaquim/Downloads/phone.png"
+   inkscape:export-xdpi="152.39999"
+   inkscape:export-ydpi="152.39999"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata130">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview128"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="-3.3220633"
+     inkscape:cy="44.097284"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3669" />
+  <defs
+     id="defs118" />
+  <g
+     id="black"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(176.94915,-46.440678)">
+    <g
+       id="whatsapp">
+      <g
+         id="g3669"
+         transform="matrix(1.6666667,0,0,1.6666667,-176.94915,46.440678)">
+        <path
+           style="fill:#ffffff;fill-opacity:0.91489363"
+           id="path120"
+           d="M 30,60 C 46.568543,60 60,46.568543 60,30 60,13.431457 46.568543,0 30,0 13.431457,0 0,13.431457 0,30 0,46.568543 13.431457,60 30,60 Z"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/archaeoz/phone.png"
+           inkscape:export-xdpi="384"
+           inkscape:export-ydpi="384" />
+        <path
+           id="path122"
+           d="m 47.246303,37.703003 c -0.214656,-0.352786 -0.784468,-0.565859 -1.637601,-0.989664 -0.855501,-0.423803 -5.058811,-2.476529 -5.840913,-2.758276 -0.784471,-0.282541 -1.355065,-0.425381 -1.924085,0.423803 -0.569017,0.849184 -2.20741,2.758278 -2.706976,3.324137 -0.498777,0.566648 -0.996766,0.637679 -1.851475,0.21307 -0.853922,-0.423803 -3.608247,-1.319553 -6.873982,-4.208832 -2.540454,-2.247661 -4.256189,-5.022511 -4.754176,-5.872485 -0.498779,-0.848394 -0.05289,-1.306921 0.374869,-1.729149 0.384345,-0.380395 0.854714,-0.990454 1.282463,-1.485284 0.427748,-0.495621 0.569807,-0.848398 0.853919,-1.415046 0.285681,-0.565861 0.142862,-1.060694 -0.07102,-1.486074 -0.21388,-0.423804 -1.924083,-4.597126 -2.635945,-6.295497 -0.711862,-1.696792 -1.422938,-1.414255 -1.922506,-1.414255 -0.498779,0 -1.068584,-0.07102 -1.63839,-0.07102 -0.569808,0 -1.496334,0.212293 -2.280018,1.06069 -0.782892,0.849189 -2.990299,2.901124 -2.990299,7.073655 0,4.173318 3.06133,8.205373 3.489868,8.770443 0.426958,0.565071 5.911151,9.407334 14.599515,12.803288 8.691528,3.395163 8.691528,2.262651 10.25889,2.121382 1.564994,-0.141264 5.054863,-2.051143 5.769093,-4.031261 0.711074,-1.981696 0.711074,-3.680069 0.498779,-4.033633 z"
+           inkscape:connector-curvature="0"
+           style="fill:#343d46;stroke-width:2.13743234;fill-opacity:1"
+           sodipodi:nodetypes="cccccccccccccsscscccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
