@@ -9668,4 +9668,35 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* REGISTRATION CLOSED TEXT */
+
+.registration-closed-big-text {
+  font-size: 3.3rem;
+  font-weight: 700;
+}
+
+.registration-closed-medium-text {
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+.registration-closed-logo {
+  width: 50%;
+}
+
+@media (max-width: 767px) {
+  .registration-closed-big-text {
+    font-size: 2rem;
+  }
+
+  .registration-closed-medium-text {
+    font-size: 1.15rem;
+    text-align: left !important;
+  }
+
+  .registration-closed-logo {
+    width: 80%;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
