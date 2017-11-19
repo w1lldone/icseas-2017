@@ -9699,4 +9699,50 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* ORANGE AREA OF PUBLICATIONS PAGES */
+
+.orange-area h1 {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.orange-area h4 {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+.orange-area p {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.orange-area a {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.orange-area a:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* BREADCRUMBS IN ORANGE AREA */
+
+.orange-area-breadcrumb > .breadcrumb-item + .breadcrumb-item::before {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.orange-area-breadcrumb > .breadcrumb-item {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.orange-area-breadcrumb > .breadcrumb-item:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.orange-area-breadcrumb > .breadcrumb-item.active:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
